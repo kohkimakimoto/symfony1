@@ -4,7 +4,7 @@ This is a Symfony1.4 framework custamized to install using Composer.
 
 My purpose is to use Symfony version 1.4 like composer packages.
 
-# composer.json
+## composer.json
 
     {
         "repositories": [
@@ -27,7 +27,7 @@ My purpose is to use Symfony version 1.4 like composer packages.
 
     }
 
-# Notice
+## Notice
 
 It's under the development process.
 
