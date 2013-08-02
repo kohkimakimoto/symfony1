@@ -6,6 +6,8 @@ My purpose is to use Symfony version 1.4 as composer packages.
 
 ## composer.json
 
+The following code is a `composer.json` file to install symfony1.4 to your system.
+
 ```json
 {
     "repositories": [
