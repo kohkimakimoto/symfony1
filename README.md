@@ -26,10 +26,6 @@ The following code is a `composer.json` file to install symfony1.4 to your syste
     ],
     "require": {
         "symfony/symfony1": "1.4"
-    },
-    "require-dev": {
-        "phpunit/phpunit": "3.*",
-        "phpunit/phpunit-selenium": ">=1.3.1"
     }
 }
 ```
