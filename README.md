@@ -12,20 +12,12 @@ The following code is a `composer.json` file to install symfony1.4 to your syste
 {
     "repositories": [
         {
-            "type": "package",
-            "package": {
-                "name": "symfony/symfony1",
-                "version": "1.4",
-                "source": {
-                  "url": "https://github.com/kohkimakimoto/symfony1.git",
-                  "type": "git",
-                  "reference": "1.4-composer-package"
-                }
-            }
+            "type": "vcs",
+            "url": "https://github.com/kohkimakimoto/symfony1.git"
         }
     ],
     "require": {
-        "symfony/symfony1": "1.4"
+        "symfony/symfony1": "dev-1.4-composer-package"
     }
 }
 ```
