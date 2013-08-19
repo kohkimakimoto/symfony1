@@ -22,10 +22,3 @@ The following code is a `composer.json` file to install symfony1.4 to your syste
 }
 ```
 
-
-## Notice
-
-It's under the development process.
-
-
-
