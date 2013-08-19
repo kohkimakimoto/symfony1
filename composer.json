@@ -1,0 +1,11 @@
+{
+  "name": "symfony/symfony1",
+  "description": "Symfony1 framework.",
+  "license": "",
+  "require": {
+  },
+  "require-dev": {
+  },
+  "autoload": {
+  }
+}
